@@ -1,4 +1,4 @@
-# Brightwave-security-sql-investigations
+# Brightwave security sql investigations
 
 # Insider Risk, Data Access & Phishing Response Investigation
 
